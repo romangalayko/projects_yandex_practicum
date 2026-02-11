@@ -23,7 +23,13 @@
       <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/02.scooter_rental">02. Анализ данных и проверка гипотез сервиса аренды самокатов</a></td>
       <td>Анализ данных пользователей сервиса аренды самокатов для проверки гипотез, способствующих росту бизнеса и выявление признаков влияющих на популярность сервиса и экономическую эффективность</td>
       <td>Статистический анализ<br>Графический анализ<br>Статистическая проверка гипотез<br>А/B тесты</td>
-      <td>pandas, numpy, matplotlib, scipy</td>
+      <td>pandas, numpy, matplotlib, seaborn, scipy</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/03.gaming_market">03. Исследование продаж консольных игр</a></td>
+      <td>Анализ консолей, продаж игр разных консолей, определение наиболее перспективных моделей консолей, формирование портрета пользователя разных стран для планирования продаж</td>
+      <td>Статистический анализ<br>Графический анализ<br>Статистическая проверка гипотез<br>А/B тесты</td>
+      <td>pandas, numpy, matplotlib, seaborn, scipy</td>
     </tr>
   </tbody>
 </table>
