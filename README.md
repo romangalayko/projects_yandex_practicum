@@ -32,10 +32,16 @@
       <td>pandas, numpy, matplotlib, seaborn, scipy</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/04.ml_cow">05. Прогнозирование удоя покупаемых коров</a></td>
+      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/04.ml_cow">04. Прогнозирование удоя покупаемых коров</a></td>
       <td>Анализ показателей коров, кормовой базы и показателей молока в фермерском хозяйстве, для прогнозирования перспективы продуктивности и отбора покупаемого поголовья коров</td>
       <td>Статистический анализ<br>Графический анализ<br>Корреляционный анализ<br>Linear Regression<br>Logistic Regression</td>
       <td>pandas, numpy, seaborn, matplotlib, sklearn</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/05.ml_online_store">05. Модель персонализации рекомендаций для удержания клиентов интернет-магазина</a></td>
+      <td>Анализ покупательской активности клиентов интернет-магазина, их классификация, прогнозирование изменения их активности и разработки персональных предложений/td>
+      <td>Статистический анализ<br>Графический анализ<br>Корелляционный анализ<br>Pipeline<br>Logistic Regression<br>KNeighborsClassifier<br>DecisionTreeClassifier<br>SVC</td>
+      <td>pandas, phik, numpy, matplotlib, seaborn, shap, sklearn</td>
     </tr>
   </tbody>
 </table>
