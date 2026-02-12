@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/05.ml_online_store">05. Модель персонализации рекомендаций для удержания клиентов интернет-магазина</a></td>
-      <td>Анализ покупательской активности клиентов интернет-магазина, их классификация, прогнозирование изменения их активности и разработки персональных предложений/td>
+      <td>Анализ покупательской активности клиентов интернет-магазина, их классификация, прогнозирование изменения их активности и разработки персональных предложений</td>
       <td>Статистический анализ<br>Графический анализ<br>Корелляционный анализ<br>Pipeline<br>Logistic Regression<br>KNeighborsClassifier<br>DecisionTreeClassifier<br>SVC</td>
       <td>pandas, phik, numpy, matplotlib, seaborn, shap, sklearn</td>
     </tr>
