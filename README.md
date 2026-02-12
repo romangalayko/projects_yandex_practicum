@@ -31,5 +31,11 @@
       <td>Статистический анализ<br>Графический анализ<br>Статистическая проверка гипотез<br>А/B тесты</td>
       <td>pandas, numpy, matplotlib, seaborn, scipy</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/04.ml_cow">05. Прогнозирование удоя покупаемых коров</a></td>
+      <td>Анализ показателей коров, кормовой базы и показателей молока в фермерском хозяйстве, для прогнозирования перспективы продуктивности и отбора покупаемого поголовья коров</td>
+      <td>Статистический анализ<br>Графический анализ<br>Корреляционный анализ<br>Linear Regression<br>Logistic Regression</td>
+      <td>pandas, numpy, seaborn, matplotlib, sklearn</td>
+    </tr>
   </tbody>
 </table>
