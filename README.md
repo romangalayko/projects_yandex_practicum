@@ -49,5 +49,11 @@
       <td>Статистический анализ<br>Графический анализ<br>Корелляционный анализ<br>А/B тесты<br>Pipeline<br>LinearRegression<br>LogisticRegression<br>DecisionTreeClassifier<br>DecisionTreeRegressor<br>SVC</td>
       <td>pandas, phik, numpy, matplotlib, seaborn, sklearn, scipy</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/07.ml_oil">07. Оптимизация выбора локации скважины</a></td>
+      <td>Построение модели машинного обучения для оценки перспективности различных локаций и выбора оптимального места бурения с целью максимизации ожидаемой прибыли и снижения рисков.</td>
+      <td>Статистический анализ<br>Графический анализ<br>LinearRegression</td>
+      <td>pandas, numpy, matplotlib, seaborn, sklearn</td>
+    </tr>
   </tbody>
 </table>
