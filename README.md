@@ -40,8 +40,14 @@
     <tr>
       <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/05.ml_online_store">05. Модель персонализации рекомендаций для удержания клиентов интернет-магазина</a></td>
       <td>Анализ покупательской активности клиентов интернет-магазина, их классификация, прогнозирование изменения их активности и разработки персональных предложений</td>
-      <td>Статистический анализ<br>Графический анализ<br>Корелляционный анализ<br>Pipeline<br>Logistic Regression<br>KNeighborsClassifier<br>DecisionTreeClassifier<br>SVC</td>
+      <td>Статистический анализ<br>Графический анализ<br>Корелляционный анализ<br>Pipeline<br>LogisticRegression<br>KNeighborsClassifier<br>DecisionTreeClassifier<br>SVC</td>
       <td>pandas, phik, numpy, matplotlib, seaborn, shap, sklearn</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/06.ml_hr_analytics">06. Прогнозирование удовлетворённости сотрудников и вероятности их увольнения</a></td>
+      <td>Анализ данных о сотрудниках компании с целью прогнозирования удовлетворённости сотрудников и вероятности их увольнения на основе внутренних HR-данных компании</td>
+      <td>Статистический анализ<br>Графический анализ<br>Корелляционный анализ<br>А/B тесты<br>Pipeline<br>LinearRegression<br>LogisticRegression<br>DecisionTreeClassifier<br>DecisionTreeRegressor<br>SVC</td>
+      <td>pandas, phik, numpy, matplotlib, seaborn, sklearn, scipy</td>
     </tr>
   </tbody>
 </table>
