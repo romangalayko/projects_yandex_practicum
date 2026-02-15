@@ -61,5 +61,11 @@
       <td>Статистический анализ<br>Графический анализ<br>Корелляционный анализ<br>DecisionTreeRegressor<br>LightGBM</td>
       <td>pandas, numpy, phik, matplotlib, seaborn, sklearn, time, lightgbm, DecisionTreeRegressor</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/09.ml_taxi">09. Прогнозирование заказов такси</a></td>
+      <td>Прогнозирование количества заказов такси в разные периоды и временные интервалы, дальность прогноза 1 час</td>
+      <td>Статистический анализ<br>Графический анализ<br>LinearRegression<br>DecisionTreeRegressor<br></td>
+      <td>pandas, numpy, matplotlib, sklearn, statsmodels, time</td>
+    </tr>
   </tbody>
 </table>
