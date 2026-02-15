@@ -34,7 +34,7 @@
     <tr>
       <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/04.ml_cow">04. Прогнозирование удоя покупаемых коров</a></td>
       <td>Анализ показателей коров, кормовой базы и показателей молока в фермерском хозяйстве, для прогнозирования перспективы продуктивности и отбора покупаемого поголовья коров</td>
-      <td>Статистический анализ<br>Графический анализ<br>Корреляционный анализ<br>Linear Regression<br>Logistic Regression</td>
+      <td>Статистический анализ<br>Графический анализ<br>Корреляционный анализ<br>LinearRegression<br>LogisticRegression</td>
       <td>pandas, numpy, seaborn, matplotlib, sklearn</td>
     </tr>
     <tr>
@@ -54,6 +54,12 @@
       <td>Построение модели машинного обучения для оценки перспективности различных локаций и выбора оптимального места бурения с целью максимизации ожидаемой прибыли и снижения рисков.</td>
       <td>Статистический анализ<br>Графический анализ<br>LinearRegression</td>
       <td>pandas, numpy, matplotlib, seaborn, sklearn</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/08.ml_cost_car">08. Определение стоимости автомобилей</a></td>
+      <td>Анализ и прогнозирование стоимости автомобилей на основании технических характеристик</td>
+      <td>Статистический анализ<br>Графический анализ<br>Корелляционный анализ<br>DecisionTreeRegressor<br>LightGBM</td>
+      <td>pandas, numpy, phik, matplotlib, seaborn, sklearn, time, lightgbm, DecisionTreeRegressor</td>
     </tr>
   </tbody>
 </table>
