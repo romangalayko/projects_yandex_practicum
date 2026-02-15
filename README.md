@@ -59,13 +59,13 @@
       <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/08.ml_cost_car">08. Определение стоимости автомобилей</a></td>
       <td>Анализ и прогнозирование стоимости автомобилей на основании технических характеристик</td>
       <td>Статистический анализ<br>Графический анализ<br>Корелляционный анализ<br>DecisionTreeRegressor<br>LightGBM</td>
-      <td>pandas, numpy, phik, matplotlib, seaborn, sklearn, time, lightgbm, DecisionTreeRegressor</td>
+      <td>pandas, numpy, phik, matplotlib, seaborn, sklearn, time, lightgbm</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/09.ml_taxi">09. Прогнозирование заказов такси</a></td>
+      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/09.ml_taxi">09. Временной ряд заказов такси с почасовой агрегацией</a></td>
       <td>Прогнозирование количества заказов такси в разные периоды и временные интервалы, дальность прогноза 1 час</td>
-      <td>Статистический анализ<br>Графический анализ<br>LinearRegression<br>DecisionTreeRegressor<br></td>
-      <td>pandas, numpy, matplotlib, sklearn, statsmodels, time</td>
+      <td>Статистический анализ<br>Графический анализ<br>LinearRegression<br>DecisionTreeRegressor<br>Prophet<br></td>
+      <td>pandas, numpy, matplotlib, sklearn, statsmodels, time, Prophet</td>
     </tr>
   </tbody>
 </table>
