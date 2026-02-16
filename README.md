@@ -67,5 +67,11 @@
       <td>Статистический анализ<br>Графический анализ<br>LinearRegression<br>DecisionTreeRegressor<br>Prophet<br></td>
       <td>pandas, numpy, matplotlib, sklearn, statsmodels, time, Prophet</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/10.ml_text_comments">10. Классификация токсичных комментариев (NLP)</a></td>
+      <td>Анализ размеченных данных с текстовыми комментариями и их классификация на "токсичные" и "нетоксичные"</td>
+      <td>Статистический анализ<br>Графический анализ<br>LogisticRegression<br>CatBoostClassifier<br></td>
+      <td>pandas, numpy, NLTK, spaCy, re, sklearn, TF-IDF, CountVectorizer, LogisticRegression, CatBoost</td>
+    </tr>
   </tbody>
 </table>
