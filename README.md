@@ -79,5 +79,11 @@
       <td>Статистический анализ<br>Графический анализ<br>Sequential<br>Adam<br>ResNet50</td>
       <td>pandas, matplotlib, seaborn, PIL, tensorflow.keras</td>
     </tr>
+        <tr>
+      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/12.ml_churn_telecom">12. Прогнозирование оттока клиентов телеком-компании</a></td>
+      <td>Прогнозирование вероятности разрыва договора абонентом телеком-компании. Выявление клиентов с риском оттока, меры их удержания, минимизация финансовых потерь компании.</td>
+      <td>Статистический анализ<br>Графический анализ<br>Корелляционный анализ<br>SVC<br>RandomForestClassifier<br>CatBoostClassifier<br></td>
+      <td>pandas, numpy, matplotlib, seaborn, phik, sklearn, SVC, RandomForestClassifier, CatBoost</td>
+    </tr>
   </tbody>
 </table>
