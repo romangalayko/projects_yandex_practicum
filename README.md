@@ -73,5 +73,11 @@
       <td>Статистический анализ<br>Графический анализ<br>LogisticRegression<br>CatBoostClassifier<br></td>
       <td>pandas, numpy, NLTK, spaCy, re, sklearn, TF-IDF, CountVectorizer, LogisticRegression, CatBoost</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/romangalayko/projects_yandex_practicum/tree/main/11.ml_age_photo">11. Определение возраста покупателя по фотографии</a></td>
+      <td>Создание модели определения возраста покупателей по фотографии на основе размеченного датасета из ChaLearn, для целей предотвращения продажи алкоголя несовершеннолетним</td>
+      <td>Статистический анализ<br>Графический анализ<br>Sequential<br>Adam<br>ResNet50</td>
+      <td>pandas, matplotlib, seaborn, PIL, tensorflow.keras</td>
+    </tr>
   </tbody>
 </table>
